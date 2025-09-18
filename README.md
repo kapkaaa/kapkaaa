@@ -2,7 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+---
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kafka-ahmad-sanjaya-110404318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -16,29 +17,32 @@
   </a>
 </div>
 
-###
+---
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kapkaaa.kapkaaa&"  />
 </div>
 
-###
+---
+
 
 <h1 align="center">hey there 👋</h1>
 
-###
+---
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+---
 
 <p align="left">I'm Kafka Ahmad Sanjaya a Software Developer from Indonesian<br><br>- 🖥 Currently I work with C#, VB, Flutter and for database with PostgreSQL or MySQL<br>- 📚 I'm currently learning Kotlin and Web development</p>
 
-###
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
@@ -66,15 +70,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kapkaaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Afaandii&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Afaandii&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afaandii&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ### 🏆 GitHub Trophies
 
