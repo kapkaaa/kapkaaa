@@ -78,12 +78,12 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=kapkaaaa&theme=onedark)](https://github.com/kapkaaaa/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=kapkaaa&theme=onedark)](https://github.com/kapkaaa/github-trophies)
 
 ---
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=kapkaaaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=kapkaaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
