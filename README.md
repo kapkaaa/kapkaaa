@@ -63,7 +63,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-![](https://github-readme-stats-gules-six-50.vercel.app/api?username=kapkaaa&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-gules-six-50.vercel.app/api?username=kapkaaa&theme=merko&hide_border=false&cache_seconds=86400)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kapkaaa&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats-gules-six-50.vercel.app/api/top-langs/?username=kapkaaa&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
